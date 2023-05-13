@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">dilfauts4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="heroes_name">heroes_name</string>
+    <string name="description">description</string>
+
+
+    <!--    nama-->
+    <string name="hero_a">Churchill MK 4</string>
+    <string name="hero_b">Renault</string>
+    <string name="hero_c">Matilda Mk II</string>
+    <string name="hero_d">Crusader</string>
+    <string name="hero_e">Centurion</string>
+    <string name="hero_f">Tiger 2</string>
+    <string name="hero_g">Shalltear Bloodfallen</string>
+    <string name="hero_h">Akagi Gadis Kapal IJN Akagi</string>
+    <string name="hero_i">Kaga Gadis Kapal IJN Kaga</string>
+    <string name="hero_j">Yukikaze Gadis Kapal IJN Yukikaze</string>
+
+
+    <!--    dskripsi-->
+    <string name="desc_a">Churchill Mk 4 adalah Tank kelas berat dari Inggris pada perang dunia 2</string>
+    <string name="desc_b">Renault adalah Tank kelas ringan dari Inggris pada Perang dunia 2</string>
+    <string name="desc_c">Matilda adalah Tank kelas Medium dari Inggeis pada Perang dunia 2</string>
+    <string name="desc_d">Crusader adalah Tank kelas berat dari Inggris</string>
+    <string name="desc_e">Centurion adalah Tank kelas berat dari Inggris</string>
+    <string name="desc_f">Tiger adalah Tank kelas berat dari German pada Perang dunia 2</string>
+    <string name="desc_g">Shalltear Bloodfallen adalah NPC dari Nazzarik.
+        merupakan karakter dengan kelas True Vampire. Karakter NPC ini dibuat oleh Player bernama Perorontino</string>
+    <string name="desc_h">Akagi adalah Sebuah karakter dari game "Kantai Collection", merupakan serial
+        game yang mengadopsi kapal perang kekaisaran jepang pada perang dunia 2 </string>
+    <string name="desc_i">Kaga adalah Sebuah karakter dari game "Kantai Collection", merupakan serial
+        game yang mengadopsi kapal perang kekaisaran jepang pada perang dunia 2</string>
+    <string name="desc_j">Yukikaze adalah Sebuah karakter dari game "Kantai Collection", merupakan serial
+        game yang mengadopsi kapal perang kekaisaran jepang pada perang dunia 2</string>
+</resources>
